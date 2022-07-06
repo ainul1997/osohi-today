@@ -1,0 +1,82 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.section-tophelp {
+    height: 500px;
+    background-image: url("/images/donation1.jpg");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.tophelp {
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+
+}
+
+#Need-help {
+    font-size: 40px;
+}
+
+.btn-helpNow {
+    background-color: rgba(222, 73, 9, 0.882);
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.section-donate {
+    margin-top: 100px;
+}
+
+.donate {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.amount-card {
+    display: flex;
+    justify-content: center;
+}
+
+.amount-take {
+    margin: 10px;
+    padding: 30px 15px;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+.amount-take1 {
+    background-color: rgba(255, 127, 80, 0.393);
+    margin: 10px;
+    padding: 30px 15px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid rgba(255, 0, 0, 0.427);
+}
+
+.other-amount {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.input-text {
+    border: none;
+
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.border-btom {
+    width: 500px;
+    border: 1px solid rgba(223, 225, 227, 0.344);
+}
