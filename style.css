@@ -80,3 +80,85 @@ body {
     width: 500px;
     border: 1px solid rgba(223, 225, 227, 0.344);
 }
+
+.section-donation-plan {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.donation-card {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.card-1 {
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 0px 10px;
+    height: 300px;
+    text-align: left;
+    padding-top: 100px;
+    border-radius: 5px;
+}
+
+.card-2 {
+    background-color: rgba(241, 237, 244, 0.619);
+    padding: 10px;
+    margin: 0px 10px;
+    height: 300px;
+    text-align: left;
+    padding-top: 100px;
+    border-radius: 5px;
+}
+
+.card-3 {
+    background-color: rgba(240, 235, 228, 0.538);
+    padding: 10px;
+    margin: 0px 10px;
+    height: 300px;
+    text-align: left;
+    padding-top: 100px;
+    border-radius: 5px;
+}
+
+.Our-observer h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.observer {
+    display: flex;
+
+}
+
+.observer img {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.observer-1 {
+    margin: 0px 10px;
+    padding: 10px;
+    background-color: azure;
+    border-radius: 10px;
+}
+
+.observer-2 {
+    margin: 0px 10px;
+    padding: 10px;
+    background-color: rgba(240, 235, 228, 0.538);
+    border-radius: 10px;
+}
+
+.name-1 {
+    color: rgba(59, 109, 153, 0.607);
+}
+
+.name-2 {
+    color: rgba(242, 212, 122, 0.461);
+}
