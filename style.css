@@ -60,6 +60,7 @@ body {
     text-align: center;
     border-radius: 5px;
     border: 1px solid rgba(255, 0, 0, 0.427);
+    color: rgba(255, 0, 0, 0.535);
 }
 
 .other-amount {
@@ -68,9 +69,14 @@ body {
     margin-top: 50px;
 }
 
+.amount-btn {
+    display: flex;
+    justify-content: center;
+}
+
 .input-text {
     border: none;
-
+    outline: none;
     text-align: center;
     padding-left: 200px;
     padding-right: 200px;
@@ -79,6 +85,7 @@ body {
 .border-btom {
     width: 500px;
     border: 1px solid rgba(223, 225, 227, 0.344);
+    margin: 10px 0px;
 }
 
 .section-donation-plan {
@@ -161,4 +168,71 @@ body {
 
 .name-2 {
     color: rgba(242, 212, 122, 0.461);
+}
+
+.Get-Update {
+
+    display: flex;
+
+}
+
+.Update {
+    justify-self: center;
+    margin: 50px 200px;
+}
+
+.Get-Update h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.Email-form {
+    background-color: rgba(242, 212, 122, 0.461);
+    width: 690px;
+    height: 200px;
+}
+
+.Email-field {
+    padding: 100px 180px;
+
+}
+
+.Email-field input {
+    border: none;
+    padding: 10px 10px;
+    margin: none;
+    border-radius: 5px 0px 0px 5px;
+    outline: none;
+}
+
+.Email-field button {
+    border: none;
+    padding: 10px 10px;
+    margin: none;
+    background-color: orange;
+    border-radius: 0px 5px 5px 0px;
+    margin-left: -5px;
+}
+
+footer {
+    height: 300px;
+    background-color: black;
+
+}
+
+.Be-Humble p {
+    text-align: center;
+    color: white;
+}
+
+.Be-Humble h2 {
+    text-align: center;
+    color: rgb(221, 21, 21);
+    font-family: 'The Nautigal', cursive;
+    font-size: 50px;
+}
+
+.Be-Humble {
+    padding-top: 70px;
 }
