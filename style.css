@@ -4,7 +4,7 @@ body {
 
 .section-tophelp {
     height: 500px;
-    background-image: url("/images/donation1.jpg");
+    background-image: url("images/donation1.jpg");
 
     background-repeat: no-repeat;
     background-size: cover;
